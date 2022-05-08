@@ -8,7 +8,8 @@ Repositório criado para o Desafio de Projeto
 
 - [Fontes Diversas](https://fonts.google.com/)
 
-  
+   ![Tux, the Linux mascot](https://github-readme-stats.vercel.app/api?username=ysabelledavanse&show_icons=true)
+
 
   
 
