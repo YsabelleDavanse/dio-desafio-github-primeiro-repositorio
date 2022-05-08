@@ -1,0 +1,30 @@
+*********    GIT   ***********
+Sistema de códigos distribuído
+______________________________
+
+*** Benefícios do Git ***
+1 - controle de versão
+2 - armazenamento em núvem
+3 - trabalho em equipe
+4 - melhorar seu código
+5 - reconhecimento
+
+
+*** Comandos básicos no Windows ***
+
+GIT Bash
+
+- git clone (copiar o link do github)
+
+- git add . ou git add -A (para adicionar todos os arquivos novos)
+
+- git commit -m "escrever mensagem coerente à alteração."
+
+- git push origin main (para enviar os commits para o Github)
+
+--> dir - lista as pastas
+--> ctrl+l - limpa o terminal
+--> TAB - auto completa
+--> kdir - cria nova pastals
+--> del - apaga o que está dentro da pasta
+--> rmdir - apaga a pasta
