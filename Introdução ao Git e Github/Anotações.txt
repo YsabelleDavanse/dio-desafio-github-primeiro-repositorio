@@ -1,8 +1,9 @@
-*********    GIT   ***********
+
+************  GIT  ************
 Sistema de códigos distribuído
 ______________________________
 
-*** Benefícios do Git ***
+*** Benefícios do Git/Github ***
 1 - controle de versão
 2 - armazenamento em núvem
 3 - trabalho em equipe
@@ -10,9 +11,11 @@ ______________________________
 5 - reconhecimento
 
 
-*** Comandos básicos no Windows ***
+*** Comandos no Windows ***
 
-GIT Bash
+GIT Bash é um terminal extendido para otimizar o uso do Git
+
+>>>>  Alguns comandos importantes <<<<
 
 - git clone (copiar o link do github)
 
